@@ -1,0 +1,4 @@
+<select class="sizeSelect">
+    <option value="" disabled selected>Select Size</option>
+    ${sizeOptions}
+</select>
